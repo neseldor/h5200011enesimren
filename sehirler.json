@@ -1,0 +1,56 @@
+[
+	{
+		"Ad":"İstanbul",
+		"Bolge":"Marmara Bölgesi",
+		"ResimUrlCard":"https://github.com/neseldor/h5200011enesimren/blob/main/Istanbul1.jpg",
+		"ResimUrlKapak":"https://github.com/neseldor/h5200011enesimren/blob/main/Istanbul2.jpg",
+		"Nufus":"15.462.452",
+		"Aciklama":"İstanbul, Türkiye'de Marmara Bölgesi'nde yer alan şehir ve Türkiye Cumhuriyeti Devletinin 81 ilinden biridir. Ülkenin nüfus bakımından en çok göç alan ve en kalabalık ilidir. Ekonomik, tarihî ve sosyo-kültürel açıdan önde gelen şehirlerden biridir. Şehir, iktisadi büyüklük açısından dünyada 34. sırada yer alır."
+	}
+
+	{
+		"Ad":"Ankara",
+		"Bolge":"İç Anadolu Bölgesi",
+		"ResimUrlCard":"https://github.com/neseldor/h5200011enesimren/blob/main/Ankara1.jpg",
+		"ResimUrlKapak":"https://github.com/neseldor/h5200011enesimren/blob/main/Ankara2.jpg",
+		"Nufus":"5.663.322",
+		"Aciklama":"Ankara, Türkiye'nin başkenti ve en kalabalık ikinci ilidir. Nüfusu 2020 itibarıyla 5.663.322 kişidir. Bu nüfus; 25 ilçe ve bu ilçelere bağlı 1425 mahallede yaşamaktadır. İl genelinde nüfus yoğunluğu 215'tir."
+	}
+
+	{
+		"Ad":"İzmir",
+		"Bolge":"Ege Bölgesi",
+		"ResimUrlCard":"https://github.com/neseldor/h5200011enesimren/blob/main/Izmir1.jpg",
+		"ResimUrlKapak":"https://github.com/neseldor/h5200011enesimren/blob/main/Izmir2.jpg",
+		"Nufus":"4.394.694",
+		"Aciklama":"İzmir, Türkiye'de Ege Bölgesi'nde yer alan şehir ve ülkenin 81 ilinden biridir. Ülkenin nüfus bakımından en kalabalık üçüncü şehridir. Ekonomik, tarihi ve sosyo-kültürel açıdan önde gelen şehirlerden biridir. Nüfusu 2020 itibarıyla 4.394.694 kişidir. Yüzölçümü olarak ülkenin yirmi üçüncü büyük ilidir."
+	}
+
+	{
+		"Ad":"Antalya",
+		"Bolge":"Akdeniz Bölgesi",
+		"ResimUrlCard":"https://github.com/neseldor/h5200011enesimren/blob/main/Antalya1.jpg",
+		"ResimUrlKapak":"https://github.com/neseldor/h5200011enesimren/blob/main/Antalya2.jpg",
+		"Nufus":"3.101.833",
+		"Aciklama":"Adana, Türkiye'nin bir ili ve en kalabalık altıncı şehridir. 2020 yılı verilerine göre 2.258.718 nüfusa sahiptir. İlin yüzölçümü 13.844 km²dir. İlde km²ye 160 kişi düşmektedir. 01.02.2018 TÜİK verilerine göre 5'i merkez ilçe olmak üzere toplam 15 ilçesi ve belediyesi vardır. Bu ilçelerde 831 mahalle bulunmaktadır."
+	}
+
+	{
+		"Ad":"Bursa",
+		"Bolge":"Marmara Bölgesi",
+		"ResimUrlCard":"https://github.com/neseldor/h5200011enesimren/blob/main/Bursa1.jpg",
+		"ResimUrlKapak":"https://github.com/neseldor/h5200011enesimren/blob/main/Bursa2.jpg",
+		"Nufus":"2.548.308",
+		"Aciklama":"Bursa, Türkiye'nin bir ili ve en kalabalık dördüncü şehri. 2021 itibarıyla 3.139.744 nüfusa sahiptir. 2016 Dünya Yaşanabilir Şehirler sıralamasında Dünya'da 28. Türkiye'de 1. sırada yer almaktadır. Marmara Bölgesinin Güney Marmara bölümünde, 40° batı boylam ve 29° kuzey enlem daireleri arasında yer alır."
+	}
+
+	{
+		"Ad":"Adana",
+		"Bolge":"Akdeniz Bölgesi",
+		"ResimUrlCard":"https://github.com/neseldor/h5200011enesimren/blob/main/Adana1.jpg",
+		"ResimUrlKapak":"https://github.com/neseldor/h5200011enesimren/blob/main/Adana2.jpg",
+		"Nufus":"2.258.718",
+		"Aciklama":"Adana, Türkiye'nin bir ili ve en kalabalık altıncı şehridir. 2020 yılı verilerine göre 2.258.718 nüfusa sahiptir. İlin yüzölçümü 13.844 km²dir. İlde km²ye 160 kişi düşmektedir. 01.02.2018 TÜİK verilerine göre 5'i merkez ilçe olmak üzere toplam 15 ilçesi ve belediyesi vardır. Bu ilçelerde 831 mahalle bulunmaktadır."
+	}
+
+]
